@@ -1,0 +1,124 @@
+.pexelsBryanGeraldo586415Icon,
+.pexelsPixabay415829Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+  height: 330px;
+  object-fit: cover;
+}
+.pexelsPixabay415829Icon {
+  top: 41px;
+  left: 116px;
+  border-radius: 50%;
+  width: 199px;
+  height: 199px;
+}
+.iphone14ProMax1Child {
+  position: absolute;
+  top: 267px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 430px;
+  height: 45px;
+}
+.div,
+.pianist {
+  position: absolute;
+}
+.div {
+  top: 412px;
+  left: 169px;
+  font-size: 20px;
+  color: var(--color-dimgray);
+}
+.pianist {
+  top: 267px;
+  left: 172px;
+}
+.iphone14ProMax1Inner,
+.iphone14ProMax1Item,
+.rectangleDiv {
+  position: absolute;
+  top: 379px;
+  left: 55px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-black);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 320px;
+  height: 45px;
+}
+.iphone14ProMax1Inner,
+.rectangleDiv {
+  top: 544px;
+}
+.rectangleDiv {
+  top: 711px;
+}
+.education {
+  position: absolute;
+  top: 379px;
+  left: 157px;
+}
+.experience,
+.skills {
+  position: absolute;
+  top: 544px;
+  left: 190px;
+}
+.experience {
+  top: 711px;
+  left: 152px;
+}
+.iphone14ProMax1Child1 {
+  position: absolute;
+  bottom: 31px;
+  left: 133px;
+  border-radius: 13px;
+  background-color: var(--color-black);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 164px;
+  height: 45px;
+  cursor: pointer;
+}
+.gallery {
+  position: absolute;
+  bottom: 36px;
+  left: 170px;
+}
+.iphone14ProMax1Child2,
+.iphone14ProMax1Child3,
+.iphone14ProMax1Child4 {
+  position: absolute;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+  width: 305px;
+  height: 41px;
+}
+.iphone14ProMax1Child2 {
+  top: 444px;
+  right: 55px;
+}
+.iphone14ProMax1Child3,
+.iphone14ProMax1Child4 {
+  left: 63px;
+}
+.iphone14ProMax1Child3 {
+  top: 611px;
+}
+.iphone14ProMax1Child4 {
+  bottom: 108px;
+}
+.iphone14ProMax1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 932px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-segoe-ui);
+}

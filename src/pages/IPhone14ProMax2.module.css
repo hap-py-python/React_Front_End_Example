@@ -1,0 +1,107 @@
+.pexelsBryanGeraldo586415Icon,
+.pexelsPixabay415829Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+  height: 330px;
+  object-fit: cover;
+}
+.pexelsPixabay415829Icon {
+  top: 41px;
+  left: 116px;
+  border-radius: 50%;
+  width: 199px;
+  height: 199px;
+}
+.iphone14ProMax2Child {
+  position: absolute;
+  top: 267px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 430px;
+  height: 45px;
+}
+.pianist {
+  position: absolute;
+  top: 267px;
+  left: 172px;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-base);
+  width: 145px;
+  height: 145px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.div {
+  left: 0;
+  background-image: url(/public/@3x.png);
+}
+.div1 {
+  right: 7px;
+  background-image: url(/public/1@3x.png);
+}
+.div2 {
+  top: calc(50% - 80.5px);
+  left: 0;
+  background-image: url(/public/2@3x.png);
+}
+.div2,
+.div3,
+.div4,
+.div5 {
+  position: absolute;
+  border-radius: var(--br-base);
+  width: 145px;
+  height: 145px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.div3 {
+  top: calc(50% - 80.5px);
+  right: 7px;
+  background-image: url(/public/@3x.png);
+}
+.div4,
+.div5 {
+  bottom: 16px;
+}
+.div4 {
+  left: 0;
+  background-image: url(/public/1@3x.png);
+}
+.div5 {
+  right: 7px;
+  background-image: url(/public/2@3x.png);
+}
+.repeatGrid1 {
+  position: absolute;
+  bottom: 40px;
+  left: 57px;
+  width: 317px;
+  height: 491px;
+}
+.iphone14ProMax2Item {
+  position: absolute;
+  top: 356px;
+  left: 51px;
+  width: 51px;
+  height: 30px;
+  cursor: pointer;
+}
+.iphone14ProMax2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 932px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-segoe-ui);
+}

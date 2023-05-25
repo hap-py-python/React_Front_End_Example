@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Segoe+UI:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-dimgray: #707070;
+
+  /* border radiuses */
+  --br-base: 16px;
+  --br-xs: 12px;
+}
